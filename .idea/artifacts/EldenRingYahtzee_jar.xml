@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EldenRingYahtzee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EldenRingYahtzee_jar</output-path>
+    <root id="archive" name="EldenRingYahtzee.jar">
+      <element id="module-output" name="EldenRingYahtzee" />
+    </root>
+  </artifact>
+</component>
